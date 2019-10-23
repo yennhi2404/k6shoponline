@@ -1,1 +1,2 @@
-# k6shoponline
+# eShop
+Project example for e-Commerce
